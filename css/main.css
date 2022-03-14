@@ -27,7 +27,7 @@ article p {
   color: #222;
   font-weight: normal;
   border-bottom: 2px;
-  border-top: 2px;
+  border-top: 1em;
 }
 
 article h1 {
