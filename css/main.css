@@ -48,6 +48,7 @@ article header {
 
 blockquote {
   font-size: 1.125rem;
+  font-weight: lighter;
 }
 
 .quote {
