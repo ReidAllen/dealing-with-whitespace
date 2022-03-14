@@ -18,6 +18,11 @@ body {
 article {
 }
 
+article h1 {
+  border-bottom: 1.5rem;
+  line-height: 1.3;
+}
+
 article p {
   font-family: "Crimson Text", serif;
   line-height: 1.3;
@@ -25,11 +30,6 @@ article p {
   font-weight: normal;
   border-bottom: 0px;
   border-top: 1em;
-}
-
-article h1 {
-  border-bottom: 1.5rem;
-  line-height: 1.3;
 }
 
 article header p {
