@@ -31,7 +31,7 @@ article p {
 }
 
 header + p {
-  margin-top: 1em;
+  margin: 0 0 1em 0;
 }
 
 article h1 {
