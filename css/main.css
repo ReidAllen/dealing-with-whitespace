@@ -30,6 +30,10 @@ article p {
   border-top: 1em;
 }
 
+header + p {
+  margin-top: 1em;
+}
+
 article h1 {
   font-weight: normal;
   margin-bottom: 0;
@@ -52,10 +56,6 @@ blockquote {
 
 .quote {
   color: #555;
-}
-
-span {
-  font-weight: lighter;
 }
 
 article ol {
