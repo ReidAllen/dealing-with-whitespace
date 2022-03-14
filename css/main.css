@@ -51,8 +51,11 @@ blockquote {
 }
 
 .quote {
-  font-weight: lighter;
   color: #555;
+}
+
+span {
+  font-weight: lighter;
 }
 
 article ol {
