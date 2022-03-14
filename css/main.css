@@ -12,7 +12,7 @@ html {
 
 body {
   margin: 1.3rem;
-  padding: 0rem 1rem;
+  padding: 1rem;
 }
 
 article {
@@ -52,5 +52,5 @@ blockquote {
 }
 
 article ol {
-  margin-left: 0px;
+  margin-left: 1.3rem;
 }
